@@ -1,0 +1,21 @@
+.NavBar {
+    background-color: #f0f0f0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .link {
+    color: black;
+    text-decoration: none;
+    font-weight: normal;
+    padding: 5px 10px;
+  }
+  
+  .active-link {
+    color: black;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-bottom: 2px solid black;
+  }
+  
